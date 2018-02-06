@@ -3,3 +3,4 @@
 《Java编程思想》
 《Java并发编程的艺术》
 《实战Java高并发程序设计》
+《Head First设计模式》
