@@ -5,7 +5,7 @@
 《Java并发编程的艺术》  
 《实战Java高并发程序设计》  
 《Java并发编程实战》  
-《深入理解Java虚拟机》 
+《深入理解Java虚拟机》   
 《Head First设计模式》   
 《疯狂Java讲义（第3版）》  
 《Java 8实战》  
