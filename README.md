@@ -32,3 +32,6 @@
 《Hadoop权威指南：大数据的存储与分析(第4版)》  
 《Netty权威指南（第2版）》  
 《Netty实战》  
+
+In Processing...  
+《Spark快速大数据分析》  
