@@ -35,3 +35,4 @@
 
 In Processing...  
 《Spark快速大数据分析》  
+《Redis实战》  
