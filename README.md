@@ -13,9 +13,9 @@
 《Java 8实战》  
 《Effective Java中文版(第2版)第二版》  
 《Spring实战（第4版）》  
-《精通Spring4.x 企业应用开发实战Spring4.0从入到精通》 
-《MyBatis从入门到精通》 
-《Java 7 并发编程指南》  
+《精通Spring4.x 企业应用开发实战Spring4.0从入到精通》   
+《MyBatis从入门到精通》   
+《Java 7 并发编程指南》    
   
 #Golang  
 《Go语言学习笔记》  
